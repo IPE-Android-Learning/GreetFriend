@@ -1,12 +1,9 @@
-.gradle/
 .gradle/2.14.1/taskArtifacts/cache.properties.lock
 .gradle/2.14.1/taskArtifacts/fileHashes.bin
 .gradle/2.14.1/taskArtifacts/fileSnapshots.bin
 .gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin
 .gradle/2.14.1/taskArtifacts/taskArtifacts.bin
 .gradle/2.14.1/taskArtifacts/
-.idea/libraries/
-.idea/vcs.xml
 .idea/compiler.xml
 .idea/gradle.xml
 .idea/libraries/android_android_23.xml
@@ -29,5 +26,4 @@ idea/runConfigurations.xml
 .idea/workspace.xml
 GreetFriend.iml
 app/app.iml
-build/
 local.properties
