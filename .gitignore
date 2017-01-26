@@ -6,6 +6,7 @@
 .gradle/2.14.1/taskArtifacts/
 .idea/compiler.xml
 .idea/gradle.xml
+.idea/libraries/
 .idea/libraries/android_android_23.xml
 .idea/libraries/animated_vector_drawable_23_4_0.xml
 .idea/libraries/appcompat_v7_23_4_0.xml
