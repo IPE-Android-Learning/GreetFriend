@@ -4,4 +4,11 @@
     <string name="goodmorning">"Good Morning "</string>
     <string name="goodafternoon">"Good Afternoon "</string>
     <string name="goodevening">"Good Evening "</string>
+
+    <string-array name="friends">
+        <item>Hugo</item>
+        <item>Paco</item>
+        <item>Luis</item>
+        <item>Pedro</item>
+    </string-array>
 </resources>
